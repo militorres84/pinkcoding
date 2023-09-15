@@ -1,0 +1,27 @@
+
+    $background: #FAE1DF;
+    $textColor: #343E3D;
+    $softBg: #feecea;
+    $softTextColor: #414e4d;
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    max-width: 100vw;
+    overflow-x: hidden;
+}
+
+a{
+    color: inherit;
+    text-decoration: none;
+}
+
+.container{
+    min-height: 100vh;
+    background-color: $background;
+    color: $textColor;
+}
