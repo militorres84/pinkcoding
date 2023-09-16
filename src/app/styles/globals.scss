@@ -1,12 +1,6 @@
 @import './mediaQueries.scss';
-
-    $background: #FAE1DF;
-    $textColor: #343E3D;
-    $softBg: #feecea;
-    $softTextColor: #414e4d;
-    $greenEmerald: #7BD389;
-    $cadetGrey: #9EA3B0;
-    $desertSand: #E4C3AD;
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+@import './var.scss';
 
 *{
     padding: 0;
